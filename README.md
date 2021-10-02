@@ -6,4 +6,4 @@
    
    Vscode Download:- https://code.visualstudio.com/download
    
-   Run Live server by right click on html fie in editor to see the view
+   Run Live server by right click on html file in editor to see the view
